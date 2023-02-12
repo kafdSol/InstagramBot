@@ -2,7 +2,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/InstagramBot"><img src="https://telegra.ph/file/4e8e8063cfb0de22b0161.jpg" width="2000"></a></p>
+<p align="center"><a href="https://github.com/kafdSol/InstagramBot"><img src="https://raw.githubusercontent.com/kafdSol/Sol/main/phoenix%20(1).png" width="2000"></a></p>
 
 Telegram bot to download instagram content.
 
@@ -12,7 +12,7 @@ Telegram bot to download instagram content.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/InstagramBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kafdSol/InstagramBot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
